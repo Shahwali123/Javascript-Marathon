@@ -1,0 +1,8 @@
+1. Lexical Structures are the basic rules and syntax that must be followed in order to write a programming language. Like adding semicolon to indicate end of a line.
+2. Unicode is a unique code or number for each character that is used by computer to understand characters.
+3. const -> Defines a constant that can't be changed.
+   Let -> Defined a variable
+   function -> Defined a function
+   for, while, forEach etc are used for loops
+4. Short-hand operator are arithematic, logical, bitwise etc. operators but written in short-form like x = x + 1 can be written like x++ in shorthand.
+5. "use Strict" is a string literal that is a directive, telling the compiler to execute the code in strict mode. Like compiler will not execute only declared variables but they must be defined as well.
