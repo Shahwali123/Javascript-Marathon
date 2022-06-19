@@ -1,0 +1,8 @@
+1. JavaScript can be used to create mobile apps, websites. You can also build web-servers, server-side applications, games and nowadays even, you can do machine learning and cryptography using javascript.
+2. Client-Side: The user interface of an app that we use to innteract with is called as client-side.
+   Whereas the logic that is used to fetch data from database and provided to the client side is known as server-side.
+3. Nodejs is an application or a runtime environment, written in C that integrated v8 engine present in browser into a desktop application. It is bascially a desktop app that can run javascript.
+4. Scope in Javascript can be defined as the regions in code where a specific varibale is known by the translator(compilers as well as interpreter) engine is called as scope.
+5. Javascript is synchronus at its base. In synchronous the next line of code must wait for the current line of code to be executed even if it is not dependent upon it while in asynchronous the It does not wait if the previous line is having heavy computation and the computation is run in the background and is dealt with once it iscompleted.
+6. Javascript is a single-threaded language which means that it can execute one opration at a time.
+7. DOM(Document Object Model) is an language independent interface that dynamically allow access to html or xml document content. It has a hirarchical structure in which each node is a part of the document. 
